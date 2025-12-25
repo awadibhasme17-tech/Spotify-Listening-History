@@ -15,6 +15,7 @@ trends, and user behavior metrics.
 - **Total Skipped Tracks:** 12K
 - **Shuffle Usage:** 18K
 - **Average Listening Duration:** 125.97K ms
+- <img width="1440" height="900" alt="Spotify Listening history.png" src="https://github.com/awadibhasme17-tech/Spotify-Listening-History/blob/main/Spotify%20Listening%20history.png"/>
 
 ---
 
