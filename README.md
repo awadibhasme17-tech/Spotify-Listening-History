@@ -41,7 +41,7 @@ trends, and user behavior metrics.
 - **Power BI Desktop**
 - **Power Query** (Data Cleaning & Transformation)
 - **Spotify Listening History Dataset (CSV)*
-- 🗂 Files Included- [listening_history.zip]https://github.com/awadibhasme17-tech/Spotify-Listening-History/blob/main/listening_history.zip) - contains dataset files used for the dashboard
+- 🗂 Files Included- [listening_history.zip](https://github.com/awadibhasme17-tech/Spotify-Listening-History/blob/main/listening_history.zip) - contains dataset files used for the dashboard
 
 ----
 # 7. Note: All statistics are based on data available up to August 2025.
